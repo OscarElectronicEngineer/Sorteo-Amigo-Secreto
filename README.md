@@ -44,7 +44,7 @@ sortearAmigo(): Elige un nombre aleatorio sin repetir.
 reiniciarValores(): Vacía la lista y resetea el juego.
 
 
-Autor
+# Autor
 
 Oscar Julian Garzon 
 
